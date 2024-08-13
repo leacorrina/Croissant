@@ -1,4 +1,5 @@
 h1,
+a,
 p,
 footer {
   text-align: center;
@@ -6,4 +7,9 @@ footer {
 
 body {
   background: rgb(224, 232, 233);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
