@@ -1,8 +1,12 @@
 h1,
-a,
 p,
 footer {
   text-align: center;
+}
+
+footer a {
+  text-align: center;
+  margin: 0 10px;
 }
 
 body {
@@ -12,4 +16,5 @@ body {
 img {
   max-width: 100%;
   height: auto;
+  border-radius: 5px;
 }
